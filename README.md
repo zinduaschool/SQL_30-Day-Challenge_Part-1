@@ -1,5 +1,6 @@
 # 30-Day Data Analysis Foundations (SQL and Power BI)
-This is a repository of all the Daily Challenges you will do under the SQL - Power BI Data Challenge
+This is a repository of all the Daily Challenges to be done under the SQL - Power BI Data Challenge
+There are two repositories for this 30 day challenge, the first one [This repo](https://github.com/zinduaschool/SQL-30-Day-Challenge) contains only SQL related challenges. 
 
 SQL Daily Challenges Outline
 | Index | Lesson | Project/Quiz |
@@ -10,6 +11,7 @@ SQL Daily Challenges Outline
 | 4 | Inserting Data into Tables |  **CHALLENGE**: Given a predefined table, alter the table to insert a given set of data |
 | 5 | Basic Select Queries |  **CHALLENGE**: Practice your SQL Queries to Answer Questions, as a business owner |
 | 6 | Advanced Select Queries |  **CHALLENGE**: Practice your SQL Queries to Combine Tables to Answer Questions relating to the products as the business owner |
+| 7 | Functions with Select Queries |  **CHALLENGE**: Practice your SQL Queries to Combine Tables and add Functions to Answer Questions relating to the products as the business owner |
 
 # Expected Daily Challenge Submissions and Milestones :
 - Day 1 (Prep) : 5 differences between NoSQL and SQL Databases, with examples
@@ -19,14 +21,10 @@ SQL Daily Challenges Outline
 - Day 5 : Submitted in (Day 3) Challenge
 - Day 6 : Submitted in (Day 4) Challenge
 - Day 7 : Submitted in (Day 5) Challenge
-- Day 8 : Submitted in (Day 6) Challenge
-- Day 9 : Submitted in (Day 7) Challenge
-- Day 10 : Submitted in (Day 8) Challenge
+
   
 # Expected Weekly Project Challenge Submissions and Milestones :
 Week 1 Project : Submitted as Week 1 Project 
 Week 2 Project : Submitted as Week 2 Project 
-Week 3 Project : Submitted as Week 3 Project 
-Week 4 Project : Submitted as Capstone Project 
 
 # Differences between SQL and No-SQL Databases 
