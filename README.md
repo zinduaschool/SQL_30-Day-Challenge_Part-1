@@ -19,3 +19,5 @@ SQL Daily Challenges Outline
 - Day 5 : Submitted in (Day 3) Challenge
 - Day 6 : Submitted in (Day 4) Challenge
 - Day 7 : Submitted in (Day 5) Challenge
+
+# Differences between SQL and No-SQL Databases 
