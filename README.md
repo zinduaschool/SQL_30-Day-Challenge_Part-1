@@ -24,7 +24,7 @@ SQL Daily Challenges Outline
 
   
 # Expected Weekly Project Challenge Submissions and Milestones :
-Week 1 Project : Submitted as Week 1 Project 
-Week 2 Project : Submitted as Week 2 Project 
+- Week 1 Project : Submitted as Week 1 Project 
+- Week 2 Project : Submitted as Week 2 Project 
 
-# Differences between SQL and No-SQL Databases 
+# Day 1 : Differences between SQL and No-SQL Databases 
