@@ -3,15 +3,14 @@ Your task will be to answer the following questions:
 1. Which customer has made the most orders?
 
 Hint, your query will have the following structure: 
+        
         SELECT order_counts as (
         SELECT customer_id, count(order_id) AS order_count
         FROM xxxx
-        GROUP BY xxxx
-        ),
+        GROUP BY xxxx),
         max_order_count AS (
         SELECT max(order_count) as max_count
-        FROM xxxx
-        )
+        FROM xxxx )
         SELECT c.first_name, c.last_name
         FROM xxxx c
         JOIN order_counts oc ON c.customer_id = oc.customer_id
