@@ -1,0 +1,50 @@
+Google Colab Link
+  https://colab.research.google.com/drive/1-aDl4pkU5qd9MU0vYSwPJZIpD-lRN_Pc#scrollTo=U4T1cDkSelZp
+
+## Create a database and name it ABC_DATA
+
+%%sql
+
+sqlite:///ABC_DATA.db
+
+## Create 4 tables
+  %%sql
+
+--table 1
+
+CREATE TABLE customers (
+  customer_id PRIMARY KEY,
+  first_name VARCHAR(20),
+  last_name VARCHAR(20),
+  email VARCHAR(20)
+);
+
+%%sql
+
+--table 2
+
+CREATE TABLE products(
+  product_id PRIMARY KEY,
+  product_name VARCHAR(20),
+  price DECIMAL(10,2)
+);
+
+%%sql
+
+--table 3
+
+CREATE TABLE orders(
+  order_id PRIMARY KEY,
+  customer_id INT(20),
+  order_date DATE
+);
+
+%%sql
+
+--table 4
+
+CREATE TABLE order_items(
+  order_id PRIMARY KEY,
+  product_id INT(10),
+  quantity INT(10)
+);
