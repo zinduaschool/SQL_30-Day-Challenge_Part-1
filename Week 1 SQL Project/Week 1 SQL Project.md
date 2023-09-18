@@ -10,6 +10,8 @@ Village location | Where the projects are run and are associated with geographic
 Beneficiary Partner Data| Each Partner records the number of projects in a subset of villages and records the number of beneficiaries|
 Jurisdiction Hierachy| Village is the lowest then District then Region|
 
+> Please note that in the **tablegen.sql script** only 2 tables have been created, your first practice task will be to create the table to store the datapoints required, i.e partner_id, partner, village, beneficiaries, beneficiary_type. 
+
 2. Write a SQL script that creates the following summary tables (can be tables or views): 
 
   a) ****District_summary****. 
