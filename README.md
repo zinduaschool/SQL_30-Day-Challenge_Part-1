@@ -1,5 +1,5 @@
-# 30-Day Data Analysis Foundations (SQL and Power BI)
-This is a repository of all the Daily Challenges to be done under the SQL - Power BI Data Challenge
+# 30-Day Data Analysis Foundations (SQL and Tableau)
+This is a repository of all the Daily Challenges to be done under the SQL - Tableau Data Challenge
 There are two repositories for this 30 day challenge, the first one [This repo](https://github.com/zinduaschool/SQL-30-Day-Challenge) contains only SQL related challenges. 
 
 SQL Daily Challenges Outline
@@ -27,4 +27,3 @@ SQL Daily Challenges Outline
 - Week 1 Project : Submitted as Week 1 Project 
 - Week 2 Project : Submitted as Week 2 Project 
 
-# Day 1 : Differences between SQL and No-SQL Databases 
